@@ -1,0 +1,4 @@
+﻿  HaasD_Lab4.cpp
+d:\cs2010\c++ labs\lab 4\haasd_lab4\haasd_lab4.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\cs2010\c++ labs\lab 4\haasd_lab4\haasd_lab4.cpp(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HaasD_Lab4.vcxproj -> D:\CS2010\C++ Labs\Lab 4\HaasD_Lab4\Debug\HaasD_Lab4.exe
